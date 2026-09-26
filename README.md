@@ -1,2 +1,2 @@
 # MusicPlayer
-simple, basic and funny
+simple and basic

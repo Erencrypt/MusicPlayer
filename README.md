@@ -1,2 +1,2 @@
-# MuzikCalar
+# MusicPlayer
 simple, basic and funny
